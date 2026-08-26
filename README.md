@@ -37,3 +37,39 @@ Time Complexity: O(log n).
 
 Linear Search and Binary Search are two important searching algorithms used to find elements in a dataset. Linear Search is simple and works on both sorted and unsorted data, while Binary Search is faster but requires the data to be sorted. Linear Search is suitable for small datasets, whereas Binary Search is more efficient for large sorted datasets. Choosing the right search algorithm improves the performance and efficiency of a program. Therefore, the selection of the algorithm depends on the size and arrangement of the data.
 
+PRACTICAL 3.../
+
+SUMMARY...
+
+Max Heap and Min Heap are tree-based data structures used for sorting and finding elements quickly. Max Heap Sort arranges elements in ascending order, while Min Heap Sort can be used to arrange elements in descending order. Heap Sort has a time complexity of O(n log n).
+
+CONCLUSION...
+
+Heap Sort is an efficient and reliable sorting method. Max Heap and Min Heap help organize data based on the largest or smallest element, making sorting simple and efficient.
+
+PRACTICAL 4.../
+SUMMARY...
+
+Factorial can be calculated using iterative and recursive methods. The iterative method uses a loop, while the recursive method calls the same function repeatedly until it reaches the base case.
+
+CONCLUSION...
+
+Both methods give the same factorial result. The iterative method is simple and uses less memory, while the recursive method is easier to understand for problems involving recursion.
+
+PRACTICAL 7.../
+SUMMARY...
+
+The Coin Change problem can be solved using Dynamic Programming to find the minimum number of coins needed to make a given amount. The program stores previously calculated results to avoid repeated calculations and gives an efficient solution.
+
+CONCLUSION..
+
+Dynamic Programming makes the Coin Change problem easier and faster to solve. It finds the minimum number of coins required for the given amount and works well for different coin values.
+
+PRACTICAL 5.../
+SUMMARY...
+
+The Knapsack problem is solved using Dynamic Programming to find the maximum value that can be carried without exceeding the given weight capacity. The method checks each item and decides whether to include it or not.
+
+CONCLUSION...
+
+Dynamic Programming provides an efficient way to solve the Knapsack problem. It gives the maximum possible value while keeping the total weight within the given capacity.
