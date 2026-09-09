@@ -73,3 +73,10 @@ The Knapsack problem is solved using Dynamic Programming to find the maximum val
 CONCLUSION...
 
 Dynamic Programming provides an efficient way to solve the Knapsack problem. It gives the maximum possible value while keeping the total weight within the given capacity.
+
+PRACTICAL 6.../
+SUMMARY...
+Chain Matrix Multiplication using Dynamic Programming finds the optimal order of multiplying matrices to minimize the total number of scalar multiplications. The algorithm stores intermediate results in a dynamic programming table and efficiently determines the minimum multiplication cost. It has a time complexity of **O(n³)** and a space complexity of **O(n²)**, with execution time measured using Python’s `time.perf_counter()`.
+
+CONCLUSION...
+Chain Matrix Multiplication using Dynamic Programming efficiently finds the best order of matrix multiplication with minimum computation cost. It reduces unnecessary calculations by storing previously solved subproblems. The method is efficient, systematic, and has a time complexity of **O(n³)**.
