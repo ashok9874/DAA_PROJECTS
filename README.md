@@ -81,3 +81,30 @@ Chain Matrix Multiplication using Dynamic Programming finds the optimal order of
 
 CONCLUSION...
 Chain Matrix Multiplication using Dynamic Programming efficiently finds the best order of matrix multiplication with minimum computation cost. It reduces unnecessary calculations by storing previously solved subproblems. The method is efficient, systematic, and has a time complexity of **O(n³)**.
+
+
+  # PRAC-8
+###  summary
+
+A graph is a data structure made up of vertices (nodes) and edges (connections). In Python, a graph can be implemented using a dictionary or an adjacency list.
+
+BFS (Breadth-First Search) visits nodes level by level and uses a queue.
+
+DFS (Depth-First Search) visits nodes by going as deep as possible and uses recursion or a stack.
+
+Both BFS and DFS are commonly used for graph traversal and searching.
+
+The time complexity of both BFS and DFS is O(V + E), where V is the number of vertices and E is the number of edge
+
+### conclusion
+
+Graph implementation provides an efficient way to represent relationships between different nodes. BFS and DFS are important algorithms for traversing and searching graphs. BFS is useful for level-wise traversal and finding shortest paths in unweighted graphs, while DFS is useful for exploring paths and solving problems such as connectivity and backtracking.
+
+# PRAC-9
+### SUMMARY
+
+Prim’s Algorithm is a greedy algorithm used to find the Minimum Spanning Tree (MST) of a connected, weighted, undirected graph. It starts from any vertex and repeatedly selects the minimum-weight edge that connects a visited vertex to an unvisited vertex. The process continues until all vertices are included in the MST.
+
+### Conclusion
+
+Prim’s Algorithm efficiently connects all vertices with minimum total edge cost and without forming cycles. It is useful in network design, such as computer networks, roads, and communication systems. The adjacency-matrix implementation has a time complexity of O(V²).
